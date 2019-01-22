@@ -1,0 +1,9 @@
+/home/tl/sqlite/build/CMakeFiles/edit_cache.dir
+/home/tl/sqlite/build/CMakeFiles/rebuild_cache.dir
+/home/tl/sqlite/build/func/CMakeFiles/edit_cache.dir
+/home/tl/sqlite/build/func/CMakeFiles/testFunc_static.dir
+/home/tl/sqlite/build/func/CMakeFiles/rebuild_cache.dir
+/home/tl/sqlite/build/func/CMakeFiles/testFunc_shared.dir
+/home/tl/sqlite/build/src/CMakeFiles/edit_cache.dir
+/home/tl/sqlite/build/src/CMakeFiles/rebuild_cache.dir
+/home/tl/sqlite/build/src/CMakeFiles/demo.dir

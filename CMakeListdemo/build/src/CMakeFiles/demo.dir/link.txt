@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/demo.dir/main.cpp.o  -o ../../bin/demo  -L/home/tl/sqlite/lib -rdynamic -ltestFunc -Wl,-rpath,/home/tl/sqlite/lib 

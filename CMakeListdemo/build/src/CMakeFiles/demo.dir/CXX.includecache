@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/func.hpp
+
+/home/tl/sqlite/src/main.cpp
+stdio.h
+-
+func.hpp
+/home/tl/sqlite/src/func.hpp
+
